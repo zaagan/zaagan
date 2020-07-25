@@ -1,3 +1,3 @@
 
-### Hi there 👋 
-I am Zaagan
+
+![profile-animation](./resources/images/profile-animation.gif)
