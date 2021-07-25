@@ -20,12 +20,12 @@
 ## My Recent Contributions
 
 <a href="https://github.com/zaagan/BioMetrix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaagan&repo=BioMetrix&show_owner=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaagan&repo=BioMetrix&show_owner=false&theme=dark" />
 </a>
 
 
 <a href="https://github.com/zaagan/boggle-rails-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaagan&repo=boggle-rails-react&show_owner=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaagan&repo=boggle-rails-react&show_owner=false&theme=dark" />
 </a>
 
 <br/>
@@ -35,6 +35,6 @@
 </a>
 
 <a href="https://github.com/zaagan/DynamixPostgreSQLHandler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaagan&repo=DynamixPostgreSQLHandler&show_owner=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaagan&repo=DynamixPostgreSQLHandler&show_owner=false&theme=dark" />
 </a>
 
