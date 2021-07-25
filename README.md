@@ -31,7 +31,7 @@
 <br/>
 
 <a href="https://github.com/zaagan/Docx-Html-Docx">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaagan&repo=Docx-Html-Docx&show_owner=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaagan&repo=Docx-Html-Docx&show_owner=false&theme=dark" />
 </a>
 
 <a href="https://github.com/zaagan/DynamixPostgreSQLHandler">
