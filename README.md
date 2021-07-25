@@ -24,3 +24,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaagan&repo=boggle-rails-react&show_owner=true&theme=dark" />
 </a>
 
+<br/>
+
+<a href="https://github.com/zaagan/Docx-Html-Docx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zaagan&repo=Docx-Html-Docx&show_owner=true&theme=dark" />
+</a>
