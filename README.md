@@ -13,7 +13,7 @@
 <br/>
 
 <a href="https://github.com/zaagan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaagan&layout=compact&theme=radical" alt="Langauages I use" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaagan&layout=compact&theme=radical&custom_title=What%20I%20play%20with%20these%20days" alt="Langauages I use" />
 </a>
 
 
