@@ -7,6 +7,8 @@
 
 [![StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/3436775)](https://stackoverflow.com/users/3436775/ozesh)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaagan)](https://git.io/streak-stats)
+
 <br/>
 
 <a href="https://github.com/zaagan">
